@@ -1,0 +1,25 @@
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets Seller.csproj.AssemblyReference.cache
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets_Seller.MainForm.resources
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets_Seller.Properties.Resources.resources
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets Seller.csproj.GenerateResource.cache
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets Seller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets Seller.AssemblyInfoInputs.cache
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets Seller.AssemblyInfo.cs
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets Seller.csproj.CoreCompileInputs.cache
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\bin\Debug\netcoreapp3.1\Tickets Seller.exe
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\bin\Debug\netcoreapp3.1\Tickets Seller.deps.json
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\bin\Debug\netcoreapp3.1\Tickets Seller.runtimeconfig.json
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\bin\Debug\netcoreapp3.1\Tickets Seller.runtimeconfig.dev.json
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\bin\Debug\netcoreapp3.1\Tickets Seller.dll
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\bin\Debug\netcoreapp3.1\Tickets Seller.pdb
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets Seller.dll
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets Seller.pdb
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets Seller.genruntimeconfig.cache
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets_Seller.LoginForm.resources
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets_Seller.BI_2Form.resources
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets_Seller.LeningradForm.resources
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets_Seller.LittleBigForm.resources
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets_Seller.RegistrationForm.resources
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets_Seller.RukiVverhForm.resources
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets_Seller.TheHattersForm.resources
+C:\Users\eukhi\source\repos\Tickets Seller\Tickets Seller\obj\Debug\netcoreapp3.1\Tickets_Seller.InquiryForm.resources
